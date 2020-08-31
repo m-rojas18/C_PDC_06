@@ -67,3 +67,9 @@ Punto de Control #06 en C++ mostrara:
  
  ## Descripción:
  - El programa hace uso de funciones virtuales en las clases para hacer impresiones.
+ 
+ ## :large_blue_circle: 6) Ejemplo typeid.cpp
+ ![](Imagenes/Ejemplo_typeid.png)
+ 
+ ## :small_blue_diamond: Salida Ejemplo typeid.cpp
+ ![](Imagenes/Salida_ejemplo_typeid.png)
