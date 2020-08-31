@@ -78,4 +78,10 @@ Punto de Control #06 en C++ mostrara:
  - El programa hace uso de typeid para obtener el nombre de las variables.
  
  ## :large_blue_circle: 7) Ejemplo sobrecarga de operadores 1.cpp
+ ![](Imagenes/Ejemplo_sobrecarga_operadores_1.png)
  
+ ## :small_blue_diamond:: Salida Ejemplo sobrecarga de operadores 1.cpp
+ ![](Imagenes/Salida_ejemplo_sobrecarga_operadores_1.png)
+ 
+ ## Descripción:
+ - El programa utiliza sobrecargadaores de operadores para darles usos especificos a ciertos caracteres y asi imprimir lo que pide el programa.
