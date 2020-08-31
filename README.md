@@ -84,4 +84,13 @@ Punto de Control #06 en C++ mostrara:
  ![](Imagenes/Salida_ejemplo_sobrecarga_operadores_1.png)
  
  ## Descripción:
- - El programa utiliza sobrecargadaores de operadores para darles usos especificos a ciertos caracteres y asi imprimir lo que pide el programa.
+ - El programa utiliza sobrecarga de operadores para darles usos especificos a ciertos caracteres y asi imprimir lo que pide el programa.
+ 
+  ## :large_blue_circle: 8) Ejemplo sobrecarga de operadores 2.cpp
+ ![](Imagenes/Ejemplo_sobrecarga_operadores_2.png)
+ 
+ ## :small_blue_diamond:: Salida Ejemplo sobrecarga de operadores 2.cpp
+ ![](Imagenes/Salida_ejemplo_sobrecarga_operadores_2.png)
+ 
+ ## Descripción:
+ - El programa utiliza sobrecarga de operadores para darles usos especificos a ciertos caracteres para mostrar una resta.
