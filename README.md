@@ -40,3 +40,12 @@ Punto de Control #06 en C++ mostrara:
  
  ## Descripción:
  - El programa intenta mostrar el uso de static_cast vs dynamic_cast pero ocurre un error al momento de correr el programa.
+ 
+  ## :large_blue_circle: 2 static_cast vs dynamic_cast 2.cpp
+   ![](Imagenes/static_cast_vs_dynamic_cast_2.png)
+   
+ ## :small_blue_diamond: Salida static_cast_vs_dynamic_cast 2.cpp
+ ![](Imagenes/Salida_static_cast_vs_dynamic_cast_2.png)
+ 
+ ## Descripción:
+ - Intento de comparacion que vuelve a fallar.
