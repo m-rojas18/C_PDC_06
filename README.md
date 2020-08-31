@@ -95,8 +95,13 @@ Punto de Control #06 en C++ mostrara:
  ## Descripción:
  - El programa utiliza sobrecarga de operadores para darles usos especificos a ciertos caracteres para mostrar una resta.
  
+ ## Asignación
+ ![](Imagenes/Asignacion.png)
+ 
  #### Herramientas:
 - :package: [Visual Studio Code](https://code.visualstudio.com/)
 - :camera: [Polacode-2020 v0.5.2](https://github.com/jeff-hykin/polacode)
 - :notebook: [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - :smile: [Emoji Cheat Sheet](https://www.webfx.com/tools/emoji-cheat-sheet/)
+
+
