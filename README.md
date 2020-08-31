@@ -25,4 +25,10 @@ Punto de Control #06 en C++ mostrara:
 
 4. Entendimiento y uso de sobrecarga de operadores
 
-:black_circle:  Ejemplo_static_cast.cpp
+## :black_circle: 1. Ejemplo_static_cast.cpp
+![](Imagenes/Ejemplo_static_cast.png)
+## Salida Ejemplo_static_cast.cpp
+![](Imagenes/Salida_Ejemplo_static_cast.png)
+
+## Descripción: 
+ - El programa hace uso de static_cast para convertir de un tipo a otro variables y luego imprimir la conversion.
