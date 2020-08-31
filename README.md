@@ -11,7 +11,7 @@
 
 ---
 ## :dart: Objetivos
-![](Imagenes/imagen_c++.png)
+![](Imagenes/c++.png)
 
 Punto de Control #06 en C++ mostrara: 
 
