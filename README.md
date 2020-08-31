@@ -73,3 +73,9 @@ Punto de Control #06 en C++ mostrara:
  
  ## :small_blue_diamond: Salida Ejemplo typeid.cpp
  ![](Imagenes/Salida_ejemplo_typeid.png)
+ 
+ ## Descripción: 
+ - El programa hace uso de typeid para obtener el nombre de las variables.
+ 
+ ## :large_blue_circle: 7) Ejemplo sobrecarga de operadores 1.cpp
+ 
